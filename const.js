@@ -1,0 +1,1 @@
+var BLOCK_SIZE = 25;
